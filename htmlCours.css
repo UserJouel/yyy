@@ -1,0 +1,689 @@
+body{
+
+    width: 800px;
+   height: 1240px;
+    
+}
+hr{
+    
+    padding-right: 190%;
+    
+}
+
+header
+{
+    
+    margin: 0;
+    height: 300px;
+    width: 1300px;
+    background: linear-gradient(to bottom, #F9762D ,#ffffffbe);
+}
+
+.port
+{   
+    display: inline-flex;
+    font-size: 45px;
+    position: relative;
+    top: 5px;
+    left: 55px;
+}
+.Acceuil{
+    position: relative;
+    font-size: 20px;
+    left: 113%;
+}
+.Propos{
+    
+    position: relative;
+    display: flex;
+    font-size: 20px;
+    left: 115%;
+    bottom: 20px;
+    
+}
+.pro1{
+    position: relative;
+    left: 14px ;
+}
+.pro{
+    position: relative;
+    left: 20px;
+}
+
+
+.Competence{
+    position: relative;
+    font-size: 20px;
+    left: 120%;
+}
+.Contact{
+    position: relative;
+    font-size: 20px;
+    left: 125%;
+}
+
+.Acceuil,.Propos ,.Competence .Contact
+{
+    position:relative;
+    right:50%;
+}
+
+
+
+
+.hr2{
+            position: relative;
+            top: 50px;
+            
+            left: 36%;
+            width: 2px;
+            height: 215px;
+            background-color: #000000; 
+            margin: 40px 0; 
+            opacity: 0.2;
+}
+.space{
+    position: relative;
+    left: 480px;
+    text-align: center;
+    font-size: 35px;
+    bottom: 100px;
+}
+
+.title{
+    left: 180px;
+    display: flex;
+    position: relative;
+    top: 168px;
+    font-size: 26px;
+}
+
+.w{
+    bottom: 21px;
+    font-size: 50px;
+    color: #00FFFF;
+    position: relative;
+}
+
+
+.title2{
+    position: relative;
+    top: 167px;
+    display: flex;
+font-size: 26px;
+left: 200px;
+}
+
+.x{
+    position: relative;
+font-size: 50px;
+bottom: 21px;
+color: #00FFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main{
+    background-color: rgb(255, 255, 255);
+    height: 4050px;
+    position: static;
+
+}
+.DEV
+{   
+    position:relative;
+    margin-top: 5%;
+    font-size: 35px;
+    font-weight: bolder;
+    left: 60%;
+    margin-right: 10%;
+}
+.Pmain
+{
+    position: relative;
+    left: 60%;
+    font-size: 22px;
+    
+}
+.P2main{
+    position: relative;
+    left: 43%;
+    
+    font-size: 22px;
+    border-style: solid;
+    background-color: #e7e7e7;
+    margin-left:40%;
+    margin-right: 35%;
+    
+}
+
+
+.Image{
+    display: flex;
+    width: 1530px;
+    margin-top: 5%;
+    margin-bottom: -20px;
+
+}
+
+.Image1{
+    position: relative;
+    border-style: solid;
+    background-image: url(maquette3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-spacing: 30px;
+    height: 600px;
+    width: 190px;
+    margin-left: 2%;
+    padding-right: 3.5%;
+    left: 6.7%;
+}
+.Image2{
+    position: relative;
+    border-style: solid;
+    background-image: url(maquette1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 2%;
+    height: 600px;
+    width: 250px;
+    padding-right: 15%;
+    left: 5.4%;
+
+    
+}
+.Image3{
+    
+    position: relative;
+    border-style: solid ;
+    background-image: url(maquette2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 9%;
+    height: 600px;
+    width: 520px;
+    right: 3%;
+}
+
+
+.sectio{
+    display:flex;
+}
+
+.Comp{
+    position: relative;
+    margin-top: 5%;
+    font-size: 29px;
+    font-weight: bolder;
+    left: 82%;
+    
+    margin-bottom: 0%;
+}
+
+.Pcomp{
+    position: relative;
+    left: 40%;
+    font-size: 24px;
+    margin-left: 1%;
+    
+    
+  
+}
+.Image4{
+    height: 639px;
+    width: 150px;
+    position: relative;
+    background-image: url(iii.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    left: 144%;
+    bottom: 9%;
+    padding-left: 5%;
+}
+
+
+.cercle{
+    display: flex;
+    position: relative;
+    bottom: 13%;
+    left: 25%;
+   
+    justify-content: space-evenly
+    
+}
+.cercle2 , .cercle3,.cercle4 {
+    position: relative;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    bottom: 125px;
+    width: 55px;
+    height: 60px;
+}
+
+.cerclee{
+    position: relative;
+    display: flex;
+
+    bottom: 7%;
+    left: 7%;
+    justify-content: space-evenly
+}
+.cercle5 , .cercle6, .cercle7 {
+    position: relative;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    bottom: 300px;
+    left: 135px;
+    width: 55px;
+    height: 60px;
+}
+
+.text {
+    position: relative;
+    font-weight: bolder;
+    top: 10%;
+}
+.text1 , .text2 , .text3{
+    position: relative;
+    bottom: 100px;
+    right: 24px;
+}
+.text4 , .text5 , .text6{
+    position: relative;
+    bottom: 270px;
+    left: 110px;
+}
+
+h1{
+
+    text-align: center;
+    margin-left:15%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2{
+    position: relative;
+    left: 50%;
+    margin-left: 30%;
+    font-size: 30px;
+    margin-bottom: 25px;
+    bottom: 390px;
+}
+
+
+.cercle2
+{
+    background-image: url(html.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cercle3
+{
+    background-image: url(java.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cercle4
+{
+    background-image: url(bosstrap.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cercle5
+{
+    background-image: url(css.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cercle6
+{
+    background-image: url(fig.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cercle7
+{
+    background-image: url(wordpress.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.grid{
+    
+    position: relative;
+    padding-right: 36px;
+    height: 1900px;
+    width: 1390px;
+    bottom: 10%;
+    display: grid;
+    grid-template-columns: 620px  150px;
+    grid-template-rows:   500px  repeat(2,1fr );
+    padding: 6%;
+    
+    gap: 40px;
+
+
+}
+.element1 , .element2, .element3 
+{
+    border-style: solid;
+}
+
+
+.element1{
+    position: relative;
+    grid-column: 1/2;
+    left: 8%;
+    padding-right: 300px;
+    height: 770px;
+    background-color: #00FFFF;
+    grid-row-start: 1/6;
+    background-image: url(maquette1.png);
+}
+
+.element2 {
+    position: relative;
+    left: 45%;
+    height: 380px;
+    width: 610px;
+    background-image: url(maquette4.png);
+   
+}
+.element3{
+    position: relative;
+    background-color: red;
+    left: 117%;
+    padding-right: 560px;
+    height: 380px ;
+    background-image: url(maquette3.png);
+    bottom: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section{
+    
+    position: relative;
+    bottom: 25%;
+}
+
+
+#Nom , #Prenom ,#Email , #Message 
+{
+    position: relative;
+    padding-bottom: 1.4%;
+    width: 30%;
+    left: 30%;
+    opacity: 0.5;
+}
+#Message{
+    padding-bottom: 6%;
+    padding-right: 31%;
+}
+#Envoyer{
+    position: relative;
+    left:30%;
+    width: 13%;
+    padding-bottom:1.6%;
+    background-color: #1225d0;
+    color: white;
+    opacity: 0.8;
+}
+.backg{
+    margin-top: 9%;
+    position: relative;
+    background: linear-gradient(to bottom, #ffffff ,#444e4e74);
+    padding-bottom: 39%;
+    padding-right: 26.5%;
+    width: 1320px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section{
+    
+    position: relative;
+    bottom: 25%;
+}
+
+
+
+
+
+footer{
+   position: relative;
+   padding-bottom: 4%;
+    background-color: rgb(0, 0, 0);
+    width: 1530px;
+    height: 350px;
+    color: white;
+}
+
+.par1 {
+    position: relative;
+     font-size: 30px;
+    margin-right: 88%;
+   bottom: 20px;
+   left:100px;
+    top: 125px;
+    
+}
+.red{
+    color: red;
+}
+.cian{
+    color: #00FFFF;
+}
+
+
+.par {
+
+    position: relative;
+    margin-right: 35%;
+    text-align: center;
+    margin-left: 45%;
+    top: 70px;
+    right: 55px;
+     
+}
+
+.rond{
+    position: relative;
+    background-image: url(instagram.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #e7e7e7;
+    border-radius: 50%;
+    text-align: end;
+    top: 23px;
+    left: 80%;
+}
+
+.rond2{
+    position: relative;
+    background-image: url(facebook.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    text-align: end;
+    bottom: 30px;
+    left: 84%;
+
+}
+.rond3{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background-image: url(twitter.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fdfdfd;
+    border-radius: 50%;
+    text-align: end;
+    bottom: 85px;
+    left: 88%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
